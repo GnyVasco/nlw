@@ -18,4 +18,6 @@ Projecto construido durante o evento NextLevelWeek da RocketSeat
 
 
 ## 📲Contacto
-gennyvasco@gmail.com
+genny.p.vasco@gmail.com
+
+[Linkedln: Genny Vasco](https://www.linkedin.com/in/genny-vasco-0ab19721b/)
