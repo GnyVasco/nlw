@@ -13,6 +13,7 @@ body{
 body * {
     font-family: 'inter', sans-serif;
     line-height: 160%;
+    border: 1px solid #9572FC;
 }
 
 
